@@ -1,0 +1,14 @@
+{
+  "name": "node-mysql",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/Template-Store/node-mysql.git",
+  "author": "wave <372969383@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "commitizen": "^2.10.1",
+    "koa": "^2.5.2",
+    "koa-router": "^7.4.0",
+    "nodemon": "^1.18.3"
+  }
+}
