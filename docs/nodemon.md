@@ -6,15 +6,9 @@
 
 - verbose-设置日志输出模式，true 详细模式
 
-- execMap-设置运行服务的后缀名与对应的命令
+- execMap-设置运行服务的后缀名与对应的命令 eg: `{ js”: 'node –harmony'}`
 
-```js
-{
-  js”: “node –harmony”
-}
-```
-
-- 表示使用 nodemon 代替 node 
+- 表示使用 nodemon 代替 node
 
 - watch-监听哪些文件的变化，当变化的时候自动重启
 

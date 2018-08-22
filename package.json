@@ -5,6 +5,9 @@
   "repository": "https://github.com/Template-Store/node-mysql.git",
   "author": "wave <372969383@qq.com>",
   "license": "MIT",
+  "scripts": {
+    "dev":"nodemon app.js"
+  },
   "devDependencies": {
     "commitizen": "^2.10.1",
     "koa": "^2.5.2",
