@@ -6,12 +6,13 @@
   "author": "wave <372969383@qq.com>",
   "license": "MIT",
   "scripts": {
-    "dev":"nodemon app.js"
+    "dev": "nodemon app.js"
   },
   "devDependencies": {
     "commitizen": "^2.10.1",
     "koa": "^2.5.2",
     "koa-router": "^7.4.0",
+    "mysql": "^2.16.0",
     "nodemon": "^1.18.3"
   }
 }
